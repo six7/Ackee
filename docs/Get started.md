@@ -2,7 +2,7 @@
 
 ## Requirements
 
-Ackee dependents on …
+Ackee depends on …
 
 - [Node.js](https://nodejs.org/en/) (v10.16 or newer)
 - [yarn](https://yarnpkg.com/en/)
